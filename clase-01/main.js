@@ -18,7 +18,7 @@ function validarEmail4(email) {
   return email.includes("@") && email.includes(".");
 }
 
-// Determina si una cadena puede representar un email válido
+// si una cadena puede representar un email válido
 function validarEmail5(email) {
   return email.includes("@") && email.includes(".");
 }
